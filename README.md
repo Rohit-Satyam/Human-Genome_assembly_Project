@@ -47,7 +47,7 @@ Blogs
 21. [De novo assembly using Illumina Reads](https://www.illumina.com/Documents/products/technotes/technote_denovo_assembly_ecoli.pdf)
 22. [SORA: Scalable Overlap-graph Reduction Algorithms for Genome Assembly using Apache Spark in the Cloud](https://ieeexplore.ieee.org/document/8621546)
 23. [Versatile genome assembly evaluation with QUAST-LG](https://academic.oup.com/bioinformatics/article/34/13/i142/5045727) 
-24. [Meraculous2: fast accurate short-read assembly of large polymorphic genomes](Meraculous2:%20fast%20accurate%20short-read%20assembly%20of%20large%20polymorphic%20genomes)
+24. [Meraculous2: fast accurate short-read assembly of large polymorphic genomes](https://arxiv.org/abs/1608.01031)
 25. [MitoZ: a toolkit for animal mitochondrial genome assembly, annotation and visualization](https://academic.oup.com/nar/article/47/11/e63/5377471)
 26. [Norgal: extraction and de novo assembly of mitochondrial DNA from whole-genome sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1927-y)
 27. [A simple method for sequencing the whole human mitochondrial genome directly from samples and its application to genetic testing](https://www.nature.com/articles/s41598-019-53449-y)
