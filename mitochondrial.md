@@ -33,7 +33,7 @@ HG00273, NA18548, NA18510) to account for differences in sequencing depth. Also,
 > Qualitative metrics (success, failure, incomplete, ...) TODO: write script to gather these metrics from output
 
 ### 6. Evaluate secondary measures including runtimes and computational requirements,user-friendliness, code quality, and documentation quality.
-> we have a script to track all performence metrics (time consumption) with docker. Will try to have three replicate runs for each thread chosen. 
+> we have a script to track all performence metrics (time consumption and peak memory). Will try to have three replicate runs for each thread chosen. 
 >TODO: separate performence benchmarking runs
 
 ### 7. Interpret results and provide guidelines or recommendations from both user and method developer perspectives.
