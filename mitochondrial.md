@@ -21,7 +21,7 @@ Org.ASM
 
 ### 3. Select (or design) representative datasets.
 > We plan to use simulated dataset produced using either and real datasets (Taking Mother Father and Child TRIO of two different sequencing depths). Alternate datasets could be from 1000 genomes project (NA11920, HG01112, NA18941, HG00096,
-HG00273, NA18548, NA18510). Also, adding an ancient Genome Sequence would be better from the [2014 study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4269527/). TODO: select exact list of chloros TODO: produce simulated datasets
+HG00273, NA18548, NA18510) to account for differences in sequencing depth. Also, adding an ancient Genome Sequence would be better from the [2014 study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4269527/). TODO: select exact list of chloros TODO: produce simulated datasets
 >The choice of simulator will be based on the following literature: [Source1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5224698/) or [Source2](https://www.nature.com/articles/nrg.2016.57).
 
 ### 4. Choose appropriate parameter values and software versions.
