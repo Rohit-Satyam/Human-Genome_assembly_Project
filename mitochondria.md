@@ -1,4 +1,4 @@
-# Mitochondrial Genome Assembly
+# Mitochondrial Genome Assembly Paper Outline
 
 10 checkpoints from [Essential guidelines for computational method benchmarking](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1738-8)
 
